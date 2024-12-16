@@ -18,7 +18,7 @@
 
 ---
 
-![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQHL3RdcEyF7dQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1729894085927?e=1732752000&v=beta&t=niZiBnDKGYUWpEZ_JXhYRIOg5Cb_OJtKTIVwsIIYyms "LinkedIn Learning Certificate of Completion")
+![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQHL3RdcEyF7dQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1729894085927?e=2147483647&v=beta&t=iFVhaHh3f5_le_Z4e_FXLAAXopwvHQFogrl6MJpD0q4 "LinkedIn Learning Certificate of Completion")
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-design-patterns-2)
 
